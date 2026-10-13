@@ -1,0 +1,33 @@
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\bin\Debug\lab1 konstrPO.exe.config
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\bin\Debug\lab1 konstrPO.exe
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\bin\Debug\lab1 konstrPO.pdb
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\bin\Debug\Npgsql.dll
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\bin\Debug\System.Buffers.dll
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\bin\Debug\System.Memory.dll
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\bin\Debug\System.Numerics.Vectors.dll
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\bin\Debug\System.Text.Encodings.Web.dll
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\bin\Debug\System.Text.Json.dll
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\bin\Debug\System.ValueTuple.dll
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\bin\Debug\Npgsql.xml
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\bin\Debug\System.Buffers.xml
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\bin\Debug\System.Memory.xml
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\bin\Debug\System.Numerics.Vectors.xml
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\bin\Debug\System.Text.Encodings.Web.xml
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\bin\Debug\System.Text.Json.xml
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\bin\Debug\System.ValueTuple.xml
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\obj\Debug\lab1 konstrPO.csproj.AssemblyReference.cache
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\obj\Debug\lab1_konstrPO.Form1.resources
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\obj\Debug\lab1_konstrPO.Properties.Resources.resources
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\obj\Debug\lab1 konstrPO.csproj.GenerateResource.cache
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\obj\Debug\lab1 konstrPO.csproj.CoreCompileInputs.cache
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\obj\Debug\lab1 kon.31043014.Up2Date
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\obj\Debug\lab1 konstrPO.exe
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\obj\Debug\lab1 konstrPO.pdb
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\obj\Debug\lab1 konstrPO.csproj.SuggestedBindingRedirects.cache
+D:\ЛАБОРАТОРНЫЕ\Конструирование ПО\lab1 konstrPO\lab1 konstrPO\obj\Debug\lab1 konstrPO.exe.config
